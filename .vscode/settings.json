@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/478ba121-0a5a-4a3f-8236-7976ba971cb0/resourceGroups/oliver/providers/Microsoft.Web/sites/oliver-api",
+    "appService.deploySubpath": ""
+}
